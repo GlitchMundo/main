@@ -64,4 +64,6 @@ São Paulo
 Festa de inauguração final!
 
 # Nós precisamos de você!
-Queria que tivesse mais coisas? Quer organizar ajudar a mobilizar o pessoal durante essa semana? Está em uma cidade que ainda não está na agenda? Faça parte da mudança, entre no nosso [Discord!](https://discord.gg/kdM6GPB)
+Queria que tivesse mais coisas? Quer organizar ajudar a mobilizar o pessoal durante essa semana? Está em uma cidade que ainda não está na agenda? 
+
+Faça parte da mudança, entre no nosso [Discord!](https://discord.gg/kdM6GPB)
