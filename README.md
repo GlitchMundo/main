@@ -1,7 +1,7 @@
 # GlitchMundo
 ### Um jeito diferente de pensar sobre coisas
 
-<p>O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativas. É tão aberto que não só todo mundo pode ir, mas todo mundo pode fazer! Saiba mais sobre como organizar seu Glitch Mundo aqui. É tão seguro que cada existência do Glitch Mundo deve seguir nosso [código de conduta.](código-de-conduta)</p>
+O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativas. É tão aberto que não só todo mundo pode ir, mas todo mundo pode fazer! Saiba mais sobre como organizar seu Glitch Mundo aqui. É tão seguro que cada existência do Glitch Mundo deve seguir nosso [código de conduta.](código-de-conduta)
 
 # Manifesto
 
