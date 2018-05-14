@@ -23,20 +23,45 @@ Para isso, vamos coletivamente nos organizar para promover e fortalecer a comuni
 # Próximos Glitch Mundo
 ## Glitch Mundo 1.0!
 ### 25/06
-
+_Em breve._
 
 ### 26/06
-São Paulo
+- São Paulo @ [DiceZ Burguer](https://www.google.com.br/maps/place/DiceZ/@-23.54563,-46.69093,15z/data=!4m5!3m4!1s0x0:0xc49edb3ead2ae602!8m2!3d-23.54563!4d-46.69093) 
+
+| Horário       | Atividade     | Quem  |
+| ------------- |:-------------:| -----:|
+|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://docs.google.com/forms/d/e/1FAIpQLScCVVhcOAD_iqFnAi_cSIEHOdGwf10ccfDKb3hqn6RuSzxWVg/viewform) |
+|     -     | Flash Day Tattoo      |   A ser decidido    |
+|     -     | Zine de GDDs (GDDump Zine)      |     A ser decidido     |
+|     -     | Batalha de Ilustradores      |     A ser decidido    |
+
 
 ### 27/06
-São Paulo
+- São Paulo @ [DiceZ Burguer](https://www.google.com.br/maps/place/DiceZ/@-23.54563,-46.69093,15z/data=!4m5!3m4!1s0x0:0xc49edb3ead2ae602!8m2!3d-23.54563!4d-46.69093) 
+
+| Horário       | Atividade     | Quem  |
+| ------------- |:-------------:| -----:|
+|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://docs.google.com/forms/d/e/1FAIpQLScCVVhcOAD_iqFnAi_cSIEHOdGwf10ccfDKb3hqn6RuSzxWVg/viewform) |
+|     -     | Flash Day Tattoo      |   A ser decidido     |
+|     -     | Zine de GDDs (GDDump Zine)      |     A ser decidido     |
 
 ### 28/06
 
+- Curitiba @ [Hot Milk](https://www.google.com.br/maps/place/HOTMILK/@-25.4518674,-49.2538922,15z/data=!4m2!3m1!1s0x0:0x280bed912bc03c41?sa=X&ved=0ahUKEwjbw7n8rv7aAhUEGJAKHTjWBrQQ_BIItgEwEQ) 
+
+| Horário       | Atividade     | Quem  |
+| ------------- |:-------------:| -----:|
+|     -     | Agenda ainda sendo definida | [Ajude na discussão da agenda aqui.](https://docs.google.com/document/d/1zldCaDF8Pob5AuwJR7BCHGzgcjUAE-XTkWD919SU7wA/edit?usp=sharing) |
+
 ### 29/06
+_Em breve._
 
 ### 30/06
+_Em breve._
 
 ### 01/06
 São Paulo
 Festa de inauguração final!
+
+# Nós precisamos de você!
+Queria que tivesse mais coisas? Quer organizar ajudar a mobilizar o pessoal durante essa semana? Está em uma cidade que ainda não está na agenda? Faça parte da mudança, entre no nosso [Discord!](https://discord.gg/kdM6GPB)
