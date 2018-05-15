@@ -81,7 +81,7 @@ _Em breve._
 ### 30/06
 _Em breve._
 
-### 01/06
+### 01/07
 São Paulo
 Festa de inauguração final!
 
