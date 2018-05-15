@@ -1,7 +1,7 @@
 # Glitch Mundo
 ### Um jeito diferente de pensar sobre coisas
 
-O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativas. É tão aberto que não só todo mundo pode ir, mas todo mundo pode fazer! Saiba mais sobre como organizar seu Glitch Mundo aqui. É tão seguro que cada existência do Glitch Mundo deve seguir nosso [código de conduta](código-de-conduta).
+O Glitch Mundo é um espaço seguro e aberto de jogos e experiências interativas. É tão aberto que não só todo mundo pode ir, mas todo mundo pode fazer! Saiba mais sobre como organizar seu Glitch Mundo aqui. É tão seguro que cada existência do Glitch Mundo deve seguir nosso [código de conduta](https://github.com/GlitchMundo/main/wiki/c%C3%B3digo-de-conduta).
 
 # Manifesto
 
@@ -20,20 +20,30 @@ Para isso, vamos coletivamente nos organizar para promover e fortalecer a comuni
 
 **Juntos somos mais fortes. Juntos, nós somos independentes.**
 
-# Como funciona?
-Este repositório irá funcionar como um manual de boas práticas para organizar um evento e um histórico das edições anteriores, para consulta.
-
-Por ser um evento descentralizado, qualquer um pode organizar sua própria [célula](célula) e realizar seus eventos, desde que respeitando o [código de conduta](código-de-conduta). Você também pode se ligar a algum grupo já existente, basta olhar as [células](célula) que já existem. As conversas entre os envolvidos se dão através do canal do [Discord](https://discord.gg/kdM6GPB).
-
-Não existem formatos predefinidos para o Glitch, então se você está organizando um evento sinta-se à vontade para experimentar. Em nossa wiki existem alguns [formatos](formatos) que podem ser utilizados.
-
 # A Primeira Edição
 
 _**PS:** Se você quiser organizar suas próprias atividades nessa primeira edição, entre no [Discord](https://discord.gg/kdM6GPB) para coordenarmos todas as iniciativas de forma organizada._
 
-Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Festival](http://www.bigfestival.com.br), que irá ocorrer entre os dias 26 a 30 de junho, em São Paulo. Até o presente momento temos duas [células](célula) do Glitch Mundo, organizando as atividades abaixo:
-
-## Glitch Mundo 1.0!
+Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Festival](http://www.bigfestival.com.br), que irá ocorrer entre os dias 26 a 30 de junho, em São Paulo. Até o presente momento temos duas [células](https://github.com/GlitchMundo/main/wiki/c%C3%A9lula) do Glitch Mundo, organizando as atividades abaixo:
+## Mostra de Jogos
+Iremos exibir em um ambiente festivo cerca de **10 jogos** (5 para cada dia), onde o frequentador pode jogar os jogos ali juntamente de seus criadores. Conjuntamente, serão realizados micropainéis com os desenvolvedores para eles falarem sobre seus projetos, e estes serão registrados em vídeo e disponibilizados futuramente pela Internet.
+### Lista de jogos a serem exibidos:
+### 26/06
+_Em breve._
+### 27/06
+_Em breve._
+## Flash Day Tattoo
+Tatuadores estarão disponíveis em dias específicos com uma seleção de desenhos, a maior parte relacionados à cultura de jogos.
+### Lista de tatuadores:
+_Em breve._
+## Batalha de Ilustradores
+**4 ilustradores entram, apenas 1 sai!** Será duas partidas de live drawing, durando 20 minutos cada. Os ilustradores deverão desenhar a partir de um tema tirado na hora. O público irá votar qual desenho é o melhor, tudo isso com a presença de um Mc, para agitar toda a competição.
+### Lista de ilustradores:
+_Em breve._
+## Zine de GDDs
+Uma zine para acolher, reunir e celebrar ideias de jogos diferentes, em forma de GDDs de uma página, com ideias estranhas, “não rentáveis”, sobre temas que não costumam ser abordados em jogos. Quanto mais diverso, melhor!
+***
+## Calendário
 ### 25/06
 _Em breve._
 
@@ -42,20 +52,20 @@ _Em breve._
 
 | Horário       | Atividade     | Quem  |
 | ------------- |:-------------:| -----:|
-|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://docs.google.com/forms/d/e/1FAIpQLScCVVhcOAD_iqFnAi_cSIEHOdGwf10ccfDKb3hqn6RuSzxWVg/viewform) |
+|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://goo.gl/forms/jwT6ax8AOUeXRxP43) |
 |     -     | Flash Day Tattoo      |   A ser decidido    |
-|     -     | Zine de GDDs (GDDump Zine)      |     A ser decidido     |
+|     -     | Zine de GDDs (GDDump Zine)      |     [Submeta sua ideia de GDD aqui](https://goo.gl/forms/383TDttwL4hlAZty1)    |
 |     -     | Batalha de Ilustradores      |     A ser decidido    |
-
 
 ### 27/06
 - São Paulo @ [DiceZ Burguer](https://www.google.com.br/maps/place/DiceZ/@-23.54563,-46.69093,15z/data=!4m5!3m4!1s0x0:0xc49edb3ead2ae602!8m2!3d-23.54563!4d-46.69093) 
 
 | Horário       | Atividade     | Quem  |
 | ------------- |:-------------:| -----:|
-|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://docs.google.com/forms/d/e/1FAIpQLScCVVhcOAD_iqFnAi_cSIEHOdGwf10ccfDKb3hqn6RuSzxWVg/viewform) |
+|     -     | Mostra de Jogos | [Submeta seu jogo aqui](https://goo.gl/forms/jwT6ax8AOUeXRxP43) |
 |     -     | Flash Day Tattoo      |   A ser decidido     |
-|     -     | Zine de GDDs (GDDump Zine)      |     A ser decidido     |
+|     -     | Zine de GDDs (GDDump Zine)      |     [Submeta sua ideia de GDD aqui](https://goo.gl/forms/383TDttwL4hlAZty1)     |
+|     -     | Batalha de Ilustradores      |     A ser decidido    |
 
 ### 28/06
 
