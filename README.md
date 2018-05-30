@@ -90,18 +90,6 @@ _Em breve._
 |18:30|	a | 	Auditório no Terreo	| a| 
 |19:00|	Churrasquinho na Laje/ Assembleia de fechamento |	Sala 01	| todos |
 
-| Horário |	Sala 01 |	Sala 02 |	Sala 03 |	Auditório	| a definir|
-| ------: |:-------:| :------:|:-------:|:---------:|:--------:|
-|14:00|	|	|	| Abertura| | 	
-|14:30 |	O que é ser indie em Curitiba? |	Boas Práticas de Ilustração |	Introdução ao Construct 2	| Transição do Design de Jogos analógicos para Desenvolvedores de jogos Digitais	| Faça sua primeira música|
-|15:15 |	|	|	|	Responsabilidade com as atipicidades mentais	||
-|15:30|	Game Engine: Qual é a pior?	|	|	|	| |
-|16:30|	Lanche	|	|	|	| |				
-|17:00|	Fazer jogos sozinhos			OWO What's this panel? – O fandom furry como plataforma identitária	Como tornar uma Mesa de RPG um lugar seguro
-|17:45|	|	|	| Nibble: Um portátil Indie	| |
-|18:00|	livre			|	|	|	| |				
-|19:00|	Churrasquinho na Laje/ Assembleia de Fechamento		|	|	|	| |		
-
 ### 30/06
 _Em breve._
 
