@@ -82,13 +82,15 @@ _Em breve._
 |14:30|	Introdução ao Construct 2	| Sala 03	| André Yin|
 |15:15|	Responsabilidade com as atipicidades mentais |	Auditório no Terreo	| Felicia Guerreiro|
 |15:30|	Game Engine: Qual é a pior?	| Sala 01	| a| 
-|16:30|	Fazer jogos sozinhos |	Sala 01	| a| 
-|16:30|	Lanche		|| todos | 
+|16:30|	Lanche		|Sala 01	|| todos | 
+|17:00|	Fazer jogos sozinhos |	Sala 01	| a| 
 |17:00|	OWO What's this panel? – O fandom furry como plataforma identitária	| Auditório no Terreo	| Koga|
 |17:00|	Como tornar uma Mesa de RPG um lugar seguro | a |		Felicia|
 |17:45|	Nibble: Um Portátil Indie |	Auditório no Terreo |	Felipe Tavares|
 |18:30|	a | 	Auditório no Terreo	| a| 
 |19:00|	Churrasquinho na Laje/ Assembleia de fechamento |	Sala 01	| todos |
+
+[Mais informações](http://glitchmundo.github.io/glitch-tyba)
 
 ### 30/06
 _Em breve._
