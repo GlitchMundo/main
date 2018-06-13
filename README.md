@@ -22,7 +22,7 @@ Para isso, vamos coletivamente nos organizar para promover e fortalecer a comuni
 
 # A Primeira Edição
 
-_**PS:** Se você quiser organizar suas próprias atividades nessa primeira edição, entre no [Discord](https://discord.gg/3P2Q5eM) para coordenarmos todas as iniciativas de forma organizada._
+_**PS:** Se você quiser organizar suas próprias atividades nessa primeira edição, entre no [Discord](https://discord.gg/JMj4JYQ) para coordenarmos todas as iniciativas de forma organizada._
 
 Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Festival](http://www.bigfestival.com.br), que irá ocorrer entre os dias 26 a 30 de junho, em São Paulo. Até o presente momento temos duas [células](https://github.com/GlitchMundo/main/wiki/c%C3%A9lula) do Glitch Mundo, organizando as atividades abaixo:
 ## Mostra de Jogos
@@ -100,4 +100,4 @@ São Paulo
 Festa de inauguração final!
 
 # Nós precisamos de você!
-Queria que tivesse mais coisas? Quer organizar ajudar a mobilizar o pessoal durante essa semana? Está em uma cidade que ainda não está na agenda? Faça parte da mudança, entre no nosso [Discord!](https://discord.gg/kdM6GPB)
+Queria que tivesse mais coisas? Quer organizar ajudar a mobilizar o pessoal durante essa semana? Está em uma cidade que ainda não está na agenda? Faça parte da mudança, entre no nosso [Discord!](https://discord.gg/JMj4JYQ)
