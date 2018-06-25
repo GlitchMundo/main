@@ -32,7 +32,7 @@ Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Fest
 # Calendário
 ### São Paulo
 
-<img src="https://github.com/GlitchMundo/main/blob/master/assets/SP_Glitch_Programacao_baixa.png">
+{{ "/assets/assets/SP_Glitch_Programacao_baixa.png" }}
 
 ### Curitiba @ [Agência PUCPR](https://www.google.com.br/maps/place/HOTMILK/@-25.4518674,-49.2538922,15z/data=!4m2!3m1!1s0x0:0x280bed912bc03c41?sa=X&ved=0ahUKEwjbw7n8rv7aAhUEGJAKHTjWBrQQ_BIItgEwEQ) 
 
