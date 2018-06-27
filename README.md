@@ -39,6 +39,8 @@ Para nossa primeira edição, estamos organizando de forma paralela ao [BIG Fest
 
 ### Curitiba @ [Agência PUCPR](https://www.google.com.br/maps/place/HOTMILK/@-25.4518674,-49.2538922,15z/data=!4m2!3m1!1s0x0:0x280bed912bc03c41?sa=X&ved=0ahUKEwjbw7n8rv7aAhUEGJAKHTjWBrQQ_BIItgEwEQ) 
 
+29/06
+
 | Horário       | Atividade     |    Onde   | Quem  |
 | ------------: |:-------------:| :--------:|-------|
 |14:00|	Abertura |	Auditório no Terreo	| todos  |
