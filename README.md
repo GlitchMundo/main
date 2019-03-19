@@ -37,4 +37,4 @@ De forma prática, estabelecemos uma conexão fácil entre as diferentes organiz
 # Onde você pode nos achar
 ## [Discord](https://discord.gg/JMj4JYQ)
 ## [Página do Facebook](https://web.facebook.com/glitchmundo/)
-## Grupo do Facebook
+## [Grupo do Facebook](https://web.facebook.com/groups/2309446532665056/)
