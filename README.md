@@ -14,8 +14,8 @@ Realizado pela primeira vez em 2018, o festival do Glitch Mundo ocorre de forma 
 **Juntos somos mais fortes. Juntos, nós somos independentes.**
 
 # Quem faz parte da rede
-- **Firma Gamedev** (São Paulo)
-- **Glitch-tyba** (Curitiba)
+- **[Firma Gamedev](https://github.com/GlitchMundo/main/wiki/Firma-Gamedev)** (São Paulo)
+- **[Glitch-tyba](https://github.com/GlitchMundo/main/wiki/Glitch-tyba)** (Curitiba)
 
 # Recursos para quem está começando
 Para você que quer começar a organizar coisas, estamos reunindo um material de boas práticas e dicas para guiá-los. Todo o material que colocamos aqui está de alguma forma em português.
@@ -24,6 +24,7 @@ Para você que quer começar a organizar coisas, estamos reunindo um material de
 
 ### Recursos
 - **[Lista de recursos para organizadores (versão wiki)](https://github.com/GlitchMundo/main/wiki/Materiais-para-organizadores)**
+- **[Formatos de eventos](https://github.com/GlitchMundo/main/wiki/Formatos)**
 - **[Manifesto sobre o independente](https://github.com/GlitchMundo/main/wiki/manifesto)**
 - **[Código de conduta](https://github.com/GlitchMundo/main/wiki/C%C3%B3digo-de-Conduta)**
 
