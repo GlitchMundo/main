@@ -25,7 +25,7 @@ Para você que quer começar a organizar coisas, estamos reunindo um material de
 ### Recursos
 - **[Lista de recursos para organizadores (versão wiki)](https://github.com/GlitchMundo/main/wiki/Materiais-para-organizadores)**
 - **[Formatos de eventos](https://github.com/GlitchMundo/main/wiki/Formatos)**
-- **[Manifesto sobre o independente](https://github.com/GlitchMundo/main/wiki/manifesto)**
+- **[Manifesto sobre o independente](https://github.com/GlitchMundo/main/wiki/manifesto-sobre-o-independente)**
 - **[Código de conduta](https://github.com/GlitchMundo/main/wiki/C%C3%B3digo-de-Conduta)**
 
 # O que a rede faz
