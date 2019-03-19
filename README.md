@@ -22,7 +22,7 @@ Para você que quer começar a organizar coisas, estamos reunindo um material de
 
 **[Lista de Recursos para organizadores de evento independentes](https://www.evernote.com/shard/s434/sh/280eace2-615b-4a3c-a510-4de72037331f/5828551ab4c8e7d62a87eb6960a4050e)**
 
-**Recursos**
+### Recursos
 - **[Lista de recursos para organizadores (versão wiki)](https://github.com/GlitchMundo/main/wiki/Materiais-para-organizadores)**
 - **[Manifesto sobre o independente](https://github.com/GlitchMundo/main/wiki/manifesto)**
 - **[Código de conduta](https://github.com/GlitchMundo/main/wiki/C%C3%B3digo-de-Conduta)**
