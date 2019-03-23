@@ -8,7 +8,7 @@ Com o surgimento de organizações e coletivos com foco local, queremos criar um
 ## Como faço para participar?
 O Glitch Mundo é uma rede aberta, qualquer um pode fazer parte! Basta sua organização obedecer nosso **[código de conduta](https://github.com/GlitchMundo/main/wiki/c%C3%B3digo-de-conduta)** e os membros da organização participarem de nossas conversas e movimentações pelo **[Discord](https://discord.gg/JMj4JYQ)**.
 
-![Glitch Mundo](https://github.com/GlitchMundo/main/blob/master/assets/gm_about.png)
+![Glitch Mundo](assets/gm_about.png)
 
 # O Festival Glitch Mundo
 Realizado pela primeira vez em 2018, o festival do Glitch Mundo ocorre de forma paralela ao BIG Festival, e é uma coleção de eventos locais em diferentes cidades, focados em suprir as necessidades das comunidades locais de games. Em nossa primeira edição, o Glitch Mundo aconteceu em São Paulo, Curitiba e Natal, e esperamos que em 2019 nosso alcance aumente para outras cidades!
